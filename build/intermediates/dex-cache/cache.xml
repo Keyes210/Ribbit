@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Ribbit\app\src\main\libs\commons-io-2.4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b1b6ea3b7e4aa4f492509a4952029cd8e48019ad">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Ribbit\app\build\intermediates\pre-dexed\debug\commons-io-2.4-e43b5bfacacfdce11e96ad76329cc7747e9667e3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\Documents\Programing\android-studio\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Ribbit\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-dd2baecd33feef13c7d2636db78e4c6fac82b0ae.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Ribbit\app\src\main\libs\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Ribbit\app\build\intermediates\pre-dexed\debug\picasso-2.5.2-eef09afccc7005befcd1f69ac7c9cf737edfb002.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Ribbit\app\build\intermediates\pre-dexed\debug\bolts-android-1.2.0-4cbe1279f43ba5f4b9c89fc7a602527538b6b477.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alex\AndroidStudioProjects\Ribbit\app\src\main\libs\Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="C:\Users\Alex\AndroidStudioProjects\Ribbit\app\build\intermediates\pre-dexed\debug\Parse-1.9.2-abb582706054b686e62cab32f125a538fd9bb5c5.jar" />
+    </item>
+
+</items>
