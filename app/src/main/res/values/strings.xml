@@ -10,18 +10,18 @@
     <string name="hello_world">Hello world!</string>
     <string name="username_hint">Username</string>
     <string name="password_hint">Password</string>
-    <string name="login_button_label">Login</string>
-    <string name="sign_up_text">Sign Up!</string>
+    <string name="login_button_label">SIGN IN</string>
+    <string name="sign_up_text">Don\'t have an account? Sign Up!</string>
     <string name="title_activity_sign_up">Sign Up</string>
     <string name="email_hint">E-Mail</string>
-    <string name="sign_up_button_label">Sign Up</string>
+    <string name="sign_up_button_label">SIGN UP</string>
     <string name="signup_error_message">Please make sure you enter a username, password, and email address.</string>
     <string name="signup_error_title">Oops!</string>
     <string name="login_error_message">Please make sure you enter a username, and password</string>
     <string name="login_error_title">Oops!</string>
     <string name="logout_title">Logout</string>
     <string name="no_messages">No new messages :(</string>
-    <string name="no_friends">You\'ve got no friends, loser :P</string>
+    <string name="no_friends">Add Friends!</string>
     <string name="edit_title">Edit Friends</string>
     <string name="title_activity_edit_friends">Edit Friends</string>
     <string name="error_label">We\'re Sorry</string>
@@ -45,5 +45,13 @@
     <string name="success_message">Message sent!</string>
     <string name="error_send">Error sending message, please try again.</string>
     <string name="title_activity_view_image">Ribbit</string>
+    <string name="content_desc_bg">Ribbit Frog Background Image</string>
+    <string name="subtitle">A Spike Lee Joint</string>
+    <string name="cancel_button_label">CANCEL</string>
+    <string name="content_desc_divider">button divider</string>
+    <string name="content_desc_messIcon">Message icon</string>
+    <string name="content_desc_avatar">user avatar</string>
+    <string name="content_desc_user_checkmark">editFriends checkmark</string>
+    <string name="push_message">You have a new Ribbit message from %s!</string>
 
 </resources>
